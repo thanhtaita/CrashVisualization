@@ -1,16 +1,24 @@
 import "./App.css";
 import vegaEmbed from "vega-embed";
 import { useEffect, useState } from "react";
+import { v1_6 } from "./visualization/v1_6";
 import { v2_1 } from "./visualization/v2_1";
 import { v2_2 } from "./visualization/v2_2";
 import { v2_3 } from "./visualization/v2_3";
 import { v2_4 } from "./visualization/v2_4";
 import { v3_1 } from "./visualization/v3_1";
+import { SlArrowLeftCircle, SlArrowRightCircle } from "react-icons/sl";
 
 function App() {
   const [selectedGraph, setSelectedGraph] = useState("A");
+  const [rightGraph, setRightGraph] = useState(1);
 
   useEffect(() => {
+    // Embed all visualizations
+    vegaEmbed("#vis6", v1_6)
+      .then((result) => console.log(result))
+      .catch((error) => console.log(error));
+
     vegaEmbed("#vis4", v2_4)
       .then((result) => console.log(result))
       .catch((error) => console.log(error));
@@ -42,6 +50,36 @@ function App() {
         break;
     }
   }, [selectedGraph]);
+
+  useEffect(() => {
+    // Embed visualizations based on the right graph
+    switch (rightGraph) {
+      case 1:
+        vegaEmbed("#vis5", v3_1)
+          .then((result) => console.log(result))
+          .catch((error) => console.log(error));
+        break;
+      case 2:
+        vegaEmbed("#vis6", v1_6)
+          .then((result) => console.log(result))
+          .catch((error) => console.log(error));
+        break;
+      default:
+        break;
+    }
+  }, [rightGraph]);
+
+  const handleRightArrow = () => {
+    if (rightGraph < 3) {
+      setRightGraph(rightGraph + 1);
+    }
+  };
+
+  const handleLeftArrow = () => {
+    if (rightGraph > 1) {
+      setRightGraph(rightGraph - 1);
+    }
+  };
 
   return (
     <div>
@@ -100,14 +138,42 @@ function App() {
           </div>
         </div>
         <div className="right">
-          <div className="col-md-6 col-content map-interact">
-            <div className="visualization" id="vis5"></div>
-          </div>
+          <SlArrowLeftCircle
+            color="rgba(0, 0, 0, 0.5)"
+            size={25}
+            className="arrow-left"
+            onClick={handleLeftArrow}
+          />
+          <SlArrowRightCircle
+            color="rgba(0, 0, 0, 0.5)"
+            size={25}
+            className="arrow-right"
+            onClick={handleRightArrow}
+          />
+          {rightGraph === 1 && (
+            <div className="map-interact">
+              <div className="visualization" id="vis5"></div>
+            </div>
+          )}
+          {rightGraph === 2 && (
+            <div className="line-bar-chart">
+              <div className="visualization" id="vis6"></div>
+            </div>
+          )}
+          {rightGraph === 3 && (
+            <div className>
+              <div className="visualization" id="vis7">
+                Haven't added chart
+              </div>
+            </div>
+          )}
         </div>
+
         {/* <div className="col-md-6 col-content">
           <div className="visualization" id="vis4"></div>
         </div> */}
       </div>
+      <div className="visual-container"></div>
     </div>
   );
 }
