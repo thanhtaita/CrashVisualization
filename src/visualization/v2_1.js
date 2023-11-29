@@ -2,7 +2,7 @@ import data1 from "../data/v2_1.json";
 export const v2_1 = {
   config: {
     view: { continuousWidth: 300, continuousHeight: 300 },
-    background: "#fbfbfb",
+    background: "transparent",
   },
   hconcat: [
     {

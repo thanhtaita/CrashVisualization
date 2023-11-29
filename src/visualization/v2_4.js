@@ -2,7 +2,7 @@ import data4 from "../data/v2_4.json";
 export const v2_4 = {
   config: {
     view: { continuousWidth: 300, continuousHeight: 300 },
-    background: "#fbfbfb",
+    background: "transparent",
   },
   $schema: "https://vega.github.io/schema/vega/v5.json",
   data: [

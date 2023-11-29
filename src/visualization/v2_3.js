@@ -2,7 +2,7 @@ import data3 from "../data/v2_3.json";
 export const v2_3 = {
   config: {
     view: { continuousWidth: 300, continuousHeight: 300 },
-    background: "#fbfbfb",
+    background: "transparent",
   },
   repeat: {
     column: [

@@ -5,12 +5,17 @@ import { v2_1 } from "./visualization/v2_1";
 import { v2_2 } from "./visualization/v2_2";
 import { v2_3 } from "./visualization/v2_3";
 import { v2_4 } from "./visualization/v2_4";
+import { v3_1 } from "./visualization/v3_1";
 
 function App() {
   const [selectedGraph, setSelectedGraph] = useState("A");
 
   useEffect(() => {
     vegaEmbed("#vis4", v2_4)
+      .then((result) => console.log(result))
+      .catch((error) => console.log(error));
+
+    vegaEmbed("#vis5", v3_1)
       .then((result) => console.log(result))
       .catch((error) => console.log(error));
   }, []);
@@ -92,6 +97,11 @@ function App() {
                 <div className="visualization" id="vis3"></div>
               </div>
             )}
+          </div>
+        </div>
+        <div className="right">
+          <div className="col-md-6 col-content map-interact">
+            <div className="visualization" id="vis5"></div>
           </div>
         </div>
         {/* <div className="col-md-6 col-content">
