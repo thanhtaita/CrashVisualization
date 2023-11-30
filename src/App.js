@@ -86,7 +86,7 @@ function App() {
       <div className="visual-container">
         <div className="left">
           <div className="options">
-            <label>
+            <div className="option">
               <input
                 type="radio"
                 name="graph"
@@ -94,9 +94,12 @@ function App() {
                 checked={selectedGraph === "A"}
                 onChange={() => setSelectedGraph("A")}
               />
-              First crash type
-            </label>
-            <label>
+              <div>
+                <div>Traffic way type</div>
+                <div>First crash type</div>
+              </div>
+            </div>
+            <div className="option">
               <input
                 type="radio"
                 name="graph"
@@ -104,9 +107,13 @@ function App() {
                 checked={selectedGraph === "B"}
                 onChange={() => setSelectedGraph("B")}
               />
-              Speed limit - Light condition
-            </label>
-            <label>
+              <div>
+                <div>Traffic way type</div>
+                <div>Posted Speed limit</div>
+                <div>Light condition</div>
+              </div>
+            </div>
+            <div className="option">
               <input
                 type="radio"
                 name="graph"
@@ -114,8 +121,12 @@ function App() {
                 checked={selectedGraph === "C"}
                 onChange={() => setSelectedGraph("C")}
               />
-              Prime contributory cause - Control device
-            </label>
+              <div>
+                <div>Traffic way type</div>
+                <div>Prime contributory cause</div>
+                <div>Control device</div>
+              </div>
+            </div>
           </div>
 
           <div className="visuals">
@@ -168,12 +179,7 @@ function App() {
             </div>
           )}
         </div>
-
-        {/* <div className="col-md-6 col-content">
-          <div className="visualization" id="vis4"></div>
-        </div> */}
       </div>
-      <div className="visual-container"></div>
     </div>
   );
 }
