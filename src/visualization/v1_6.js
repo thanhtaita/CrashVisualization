@@ -4,6 +4,7 @@ export const v1_6 = {
     view: { continuousWidth: 300, continuousHeight: 300 },
     background: "transparent",
   },
+  title: "THE RELATIONSHIP BETWEEN THE TYPES OF FIRST CRASHES, THE NUMBER OF CRASHES, AND FATAL INJURIES",
   layer: [
     {
       mark: { type: "bar" },

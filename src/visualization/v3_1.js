@@ -5,6 +5,7 @@ export const v3_1 = {
     spacing: 0,
     background: "transparent",
   },
+  title: "HEATMAP AND BARCHART OF CRASHES IN CHICAGO TO VISUALIZE CRASH HOTSPOTS",
   hconcat: [
     {
       mark: { type: "geoshape" },

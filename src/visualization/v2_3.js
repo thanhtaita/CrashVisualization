@@ -4,6 +4,7 @@ export const v2_3 = {
     view: { continuousWidth: 300, continuousHeight: 300 },
     background: "transparent",
   },
+  title: "CROSSFILTER BETWEEN PRIMARY CONTRIBUTORY CAUSES, TRAFFIC WAY TYPE, AND TRAFFIC CONTROL DEVICE",
   repeat: {
     column: [
       "PRIM_CONTRIBUTORY_CAUSE",
