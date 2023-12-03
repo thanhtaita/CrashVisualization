@@ -5,7 +5,12 @@ export const v3_1 = {
     spacing: 0,
     background: "transparent",
   },
-  title: "HEATMAP AND BARCHART OF CRASHES IN CHICAGO TO VISUALIZE CRASH HOTSPOTS",
+  title: {
+    text: "HEATMAP AND BARCHART OF CRASHES IN CHICAGO TO VISUALIZE CRASH HOTSPOTS",
+    anchor: "middle", // Center the title horizontally
+    align: "center", // Center the title vertically
+    offset: 20,
+  },
   hconcat: [
     {
       mark: { type: "geoshape" },

@@ -4,7 +4,12 @@ export const v2_2 = {
     view: { continuousWidth: 300, continuousHeight: 300 },
     background: "transparent",
   },
-  title: "THE RELATIONSHIP IN NUMBER OF ACCIDENTS BETWEEN POSTED SPEED LIMIT AND TYPES OF TRAFFIC WAY",
+  title: {
+    text: "THE RELATIONSHIP IN NUMBER OF ACCIDENTS BETWEEN POSTED SPEED LIMIT AND TYPES OF TRAFFIC WAY",
+    anchor: "middle", // Center the title horizontally
+    align: "center", // Center the title vertically
+    offset: 20,
+  },
   vconcat: [
     {
       mark: { type: "bar" },

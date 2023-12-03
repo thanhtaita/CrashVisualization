@@ -4,7 +4,12 @@ export const v1_6 = {
     view: { continuousWidth: 300, continuousHeight: 300 },
     background: "transparent",
   },
-  title: "THE RELATIONSHIP BETWEEN THE TYPES OF FIRST CRASHES, THE NUMBER OF CRASHES, AND FATAL INJURIES",
+  title: {
+    text: "THE RELATIONSHIP BETWEEN THE TYPES OF FIRST CRASHES, THE NUMBER OF CRASHES, AND FATAL INJURIES",
+    anchor: "middle", // Center the title horizontally
+    align: "center", // Center the title vertically
+    offset: 20,
+  },
   layer: [
     {
       mark: { type: "bar" },

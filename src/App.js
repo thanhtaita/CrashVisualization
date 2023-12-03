@@ -19,10 +19,6 @@ function App() {
       .then((result) => console.log(result))
       .catch((error) => console.log(error));
 
-    vegaEmbed("#vis4", v2_4)
-      .then((result) => console.log(result))
-      .catch((error) => console.log(error));
-
     vegaEmbed("#vis5", v3_1)
       .then((result) => console.log(result))
       .catch((error) => console.log(error));
@@ -61,6 +57,11 @@ function App() {
         break;
       case 2:
         vegaEmbed("#vis6", v1_6)
+          .then((result) => console.log(result))
+          .catch((error) => console.log(error));
+        break;
+      case 3:
+        vegaEmbed("#vis4", v2_4)
           .then((result) => console.log(result))
           .catch((error) => console.log(error));
         break;
@@ -166,16 +167,14 @@ function App() {
               <div className="visualization" id="vis5"></div>
             </div>
           )}
+          {rightGraph === 3 && (
+            <div className="bar-dot-chart">
+              <div className="visualization" id="vis4"></div>
+            </div>
+          )}
           {rightGraph === 2 && (
             <div className="line-bar-chart">
               <div className="visualization" id="vis6"></div>
-            </div>
-          )}
-          {rightGraph === 3 && (
-            <div className>
-              <div className="visualization" id="vis7">
-                Haven't added chart
-              </div>
             </div>
           )}
         </div>

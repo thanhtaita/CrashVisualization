@@ -4,7 +4,12 @@ export const v2_1 = {
     view: { continuousWidth: 300, continuousHeight: 300 },
     background: "transparent",
   },
-  title: "THE TRENDS OF NUMBER OF ACCIDENTS RELATED TO TYPES OF TRAFFIC WAY AND TYPE OF FIRST CRASH OVER YEARS",
+  title: {
+    text: "THE TRENDS OF NUMBER OF ACCIDENTS RELATED TO TYPES OF TRAFFIC WAY AND TYPE OF FIRST CRASH OVER YEARS",
+    anchor: "middle", // Center the title horizontally
+    align: "center", // Center the title vertically
+    offset: 20,
+  },
   hconcat: [
     {
       mark: { type: "circle", size: 200 },

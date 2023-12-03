@@ -119,3 +119,7 @@ input {
 .right #vis7 {
   height: 5rem;
 }
+
+.right .bar-dot-chart {
+  margin-top: 20rem;
+}

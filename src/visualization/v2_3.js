@@ -4,7 +4,12 @@ export const v2_3 = {
     view: { continuousWidth: 300, continuousHeight: 300 },
     background: "transparent",
   },
-  title: "CROSSFILTER BETWEEN PRIMARY CONTRIBUTORY CAUSES, TRAFFIC WAY TYPE, AND TRAFFIC CONTROL DEVICE",
+  title: {
+    text: "CROSSFILTER BETWEEN PRIMARY CONTRIBUTORY CAUSES, TRAFFIC WAY TYPE, AND TRAFFIC CONTROL DEVICE",
+    anchor: "middle", // Center the title horizontally
+    align: "center", // Center the title vertically
+    offset: 20,
+  },
   repeat: {
     column: [
       "PRIM_CONTRIBUTORY_CAUSE",
