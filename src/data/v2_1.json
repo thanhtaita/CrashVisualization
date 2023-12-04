@@ -1,3 +1,4853 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6662830690db56da5cd05a2220b1a962e5e6a497f73e88cdedb1e0e5599746ae
-size 93095
+[
+  {
+    "time": "2013",
+    "id": 0,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 0,
+    "value": 1,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2015",
+    "id": 0,
+    "value": 161,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 161
+  },
+  {
+    "time": "2016",
+    "id": 0,
+    "value": 741,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 741
+  },
+  {
+    "time": "2017",
+    "id": 0,
+    "value": 1600,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1600
+  },
+  {
+    "time": "2018",
+    "id": 0,
+    "value": 2433,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 2433
+  },
+  {
+    "time": "2019",
+    "id": 0,
+    "value": 1456,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1456
+  },
+  {
+    "time": "2020",
+    "id": 0,
+    "value": 1146,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1146
+  },
+  {
+    "time": "2021",
+    "id": 0,
+    "value": 1289,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1289
+  },
+  {
+    "time": "2022",
+    "id": 0,
+    "value": 1186,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1186
+  },
+  {
+    "time": "2023",
+    "id": 0,
+    "value": 815,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 815
+  },
+  {
+    "time": "2013",
+    "id": 1,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 1,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 1,
+    "value": 33,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 33
+  },
+  {
+    "time": "2016",
+    "id": 1,
+    "value": 120,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 120
+  },
+  {
+    "time": "2017",
+    "id": 1,
+    "value": 279,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 279
+  },
+  {
+    "time": "2018",
+    "id": 1,
+    "value": 444,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 444
+  },
+  {
+    "time": "2019",
+    "id": 1,
+    "value": 258,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 258
+  },
+  {
+    "time": "2020",
+    "id": 1,
+    "value": 200,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 200
+  },
+  {
+    "time": "2021",
+    "id": 1,
+    "value": 226,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 226
+  },
+  {
+    "time": "2022",
+    "id": 1,
+    "value": 221,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 221
+  },
+  {
+    "time": "2023",
+    "id": 1,
+    "value": 148,
+    "x": "ANGLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 148
+  },
+  {
+    "time": "2013",
+    "id": 2,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 2,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 2,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 2,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 2,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 2,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 2,
+    "value": 1829,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1829
+  },
+  {
+    "time": "2020",
+    "id": 2,
+    "value": 2791,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 2791
+  },
+  {
+    "time": "2021",
+    "id": 2,
+    "value": 3338,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 3338
+  },
+  {
+    "time": "2022",
+    "id": 2,
+    "value": 3551,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 3551
+  },
+  {
+    "time": "2023",
+    "id": 2,
+    "value": 2862,
+    "x": "ANGLE",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 2862
+  },
+  {
+    "time": "2013",
+    "id": 3,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 3,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 3,
+    "value": 321,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 321
+  },
+  {
+    "time": "2016",
+    "id": 3,
+    "value": 1811,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1811
+  },
+  {
+    "time": "2017",
+    "id": 3,
+    "value": 3958,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 3958
+  },
+  {
+    "time": "2018",
+    "id": 3,
+    "value": 5911,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 5911
+  },
+  {
+    "time": "2019",
+    "id": 3,
+    "value": 4405,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 4405
+  },
+  {
+    "time": "2020",
+    "id": 3,
+    "value": 3257,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 3257
+  },
+  {
+    "time": "2021",
+    "id": 3,
+    "value": 4075,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 4075
+  },
+  {
+    "time": "2022",
+    "id": 3,
+    "value": 3779,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 3779
+  },
+  {
+    "time": "2023",
+    "id": 3,
+    "value": 2641,
+    "x": "ANGLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 2641
+  },
+  {
+    "time": "2013",
+    "id": 4,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 4,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 4,
+    "value": 85,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 85
+  },
+  {
+    "time": "2016",
+    "id": 4,
+    "value": 396,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 396
+  },
+  {
+    "time": "2017",
+    "id": 4,
+    "value": 775,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 775
+  },
+  {
+    "time": "2018",
+    "id": 4,
+    "value": 1150,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1150
+  },
+  {
+    "time": "2019",
+    "id": 4,
+    "value": 767,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 767
+  },
+  {
+    "time": "2020",
+    "id": 4,
+    "value": 533,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 533
+  },
+  {
+    "time": "2021",
+    "id": 4,
+    "value": 625,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 625
+  },
+  {
+    "time": "2022",
+    "id": 4,
+    "value": 601,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 601
+  },
+  {
+    "time": "2023",
+    "id": 4,
+    "value": 415,
+    "x": "ANGLE",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 415
+  },
+  {
+    "time": "2013",
+    "id": 5,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 5,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 5,
+    "value": 74,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 74
+  },
+  {
+    "time": "2016",
+    "id": 5,
+    "value": 293,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 293
+  },
+  {
+    "time": "2017",
+    "id": 5,
+    "value": 508,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 508
+  },
+  {
+    "time": "2018",
+    "id": 5,
+    "value": 826,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 826
+  },
+  {
+    "time": "2019",
+    "id": 5,
+    "value": 357,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 357
+  },
+  {
+    "time": "2020",
+    "id": 5,
+    "value": 211,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 211
+  },
+  {
+    "time": "2021",
+    "id": 5,
+    "value": 251,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 251
+  },
+  {
+    "time": "2022",
+    "id": 5,
+    "value": 265,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 265
+  },
+  {
+    "time": "2023",
+    "id": 5,
+    "value": 179,
+    "x": "ANGLE",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 179
+  },
+  {
+    "time": "2013",
+    "id": 6,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 6,
+    "value": 0,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 6,
+    "value": 191,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 191
+  },
+  {
+    "time": "2016",
+    "id": 6,
+    "value": 723,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 723
+  },
+  {
+    "time": "2017",
+    "id": 6,
+    "value": 1049,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1049
+  },
+  {
+    "time": "2018",
+    "id": 6,
+    "value": 1381,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1381
+  },
+  {
+    "time": "2019",
+    "id": 6,
+    "value": 940,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 940
+  },
+  {
+    "time": "2020",
+    "id": 6,
+    "value": 537,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 537
+  },
+  {
+    "time": "2021",
+    "id": 6,
+    "value": 592,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 592
+  },
+  {
+    "time": "2022",
+    "id": 6,
+    "value": 562,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 562
+  },
+  {
+    "time": "2023",
+    "id": 6,
+    "value": 399,
+    "x": "ANGLE",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 399
+  },
+  {
+    "time": "2013",
+    "id": 7,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 7,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 7,
+    "value": 30,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 30
+  },
+  {
+    "time": "2016",
+    "id": 7,
+    "value": 131,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 131
+  },
+  {
+    "time": "2017",
+    "id": 7,
+    "value": 433,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 433
+  },
+  {
+    "time": "2018",
+    "id": 7,
+    "value": 667,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 667
+  },
+  {
+    "time": "2019",
+    "id": 7,
+    "value": 620,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 620
+  },
+  {
+    "time": "2020",
+    "id": 7,
+    "value": 532,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 532
+  },
+  {
+    "time": "2021",
+    "id": 7,
+    "value": 602,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 602
+  },
+  {
+    "time": "2022",
+    "id": 7,
+    "value": 506,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 506
+  },
+  {
+    "time": "2023",
+    "id": 7,
+    "value": 313,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 313
+  },
+  {
+    "time": "2013",
+    "id": 8,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 8,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 8,
+    "value": 24,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 24
+  },
+  {
+    "time": "2016",
+    "id": 8,
+    "value": 104,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 104
+  },
+  {
+    "time": "2017",
+    "id": 8,
+    "value": 390,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 390
+  },
+  {
+    "time": "2018",
+    "id": 8,
+    "value": 777,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 777
+  },
+  {
+    "time": "2019",
+    "id": 8,
+    "value": 757,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 757
+  },
+  {
+    "time": "2020",
+    "id": 8,
+    "value": 799,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 799
+  },
+  {
+    "time": "2021",
+    "id": 8,
+    "value": 910,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 910
+  },
+  {
+    "time": "2022",
+    "id": 8,
+    "value": 869,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 869
+  },
+  {
+    "time": "2023",
+    "id": 8,
+    "value": 540,
+    "x": "FIXED OBJECT",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 540
+  },
+  {
+    "time": "2013",
+    "id": 9,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 9,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 9,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 9,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 9,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 9,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 9,
+    "value": 133,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 133
+  },
+  {
+    "time": "2020",
+    "id": 9,
+    "value": 203,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 203
+  },
+  {
+    "time": "2021",
+    "id": 9,
+    "value": 233,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 233
+  },
+  {
+    "time": "2022",
+    "id": 9,
+    "value": 243,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 243
+  },
+  {
+    "time": "2023",
+    "id": 9,
+    "value": 192,
+    "x": "FIXED OBJECT",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 192
+  },
+  {
+    "time": "2013",
+    "id": 10,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 10,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 10,
+    "value": 48,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 48
+  },
+  {
+    "time": "2016",
+    "id": 10,
+    "value": 364,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 364
+  },
+  {
+    "time": "2017",
+    "id": 10,
+    "value": 1014,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1014
+  },
+  {
+    "time": "2018",
+    "id": 10,
+    "value": 1845,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1845
+  },
+  {
+    "time": "2019",
+    "id": 10,
+    "value": 1722,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1722
+  },
+  {
+    "time": "2020",
+    "id": 10,
+    "value": 1454,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1454
+  },
+  {
+    "time": "2021",
+    "id": 10,
+    "value": 1633,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1633
+  },
+  {
+    "time": "2022",
+    "id": 10,
+    "value": 1560,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1560
+  },
+  {
+    "time": "2023",
+    "id": 10,
+    "value": 960,
+    "x": "FIXED OBJECT",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 960
+  },
+  {
+    "time": "2013",
+    "id": 11,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 11,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 11,
+    "value": 24,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 24
+  },
+  {
+    "time": "2016",
+    "id": 11,
+    "value": 96,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 96
+  },
+  {
+    "time": "2017",
+    "id": 11,
+    "value": 324,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 324
+  },
+  {
+    "time": "2018",
+    "id": 11,
+    "value": 522,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 522
+  },
+  {
+    "time": "2019",
+    "id": 11,
+    "value": 501,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 501
+  },
+  {
+    "time": "2020",
+    "id": 11,
+    "value": 393,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 393
+  },
+  {
+    "time": "2021",
+    "id": 11,
+    "value": 425,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 425
+  },
+  {
+    "time": "2022",
+    "id": 11,
+    "value": 382,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 382
+  },
+  {
+    "time": "2023",
+    "id": 11,
+    "value": 241,
+    "x": "FIXED OBJECT",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 241
+  },
+  {
+    "time": "2013",
+    "id": 12,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 12,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 12,
+    "value": 18,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 18
+  },
+  {
+    "time": "2016",
+    "id": 12,
+    "value": 74,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 74
+  },
+  {
+    "time": "2017",
+    "id": 12,
+    "value": 197,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 197
+  },
+  {
+    "time": "2018",
+    "id": 12,
+    "value": 324,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 324
+  },
+  {
+    "time": "2019",
+    "id": 12,
+    "value": 291,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 291
+  },
+  {
+    "time": "2020",
+    "id": 12,
+    "value": 252,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 252
+  },
+  {
+    "time": "2021",
+    "id": 12,
+    "value": 323,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 323
+  },
+  {
+    "time": "2022",
+    "id": 12,
+    "value": 322,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 322
+  },
+  {
+    "time": "2023",
+    "id": 12,
+    "value": 226,
+    "x": "FIXED OBJECT",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 226
+  },
+  {
+    "time": "2013",
+    "id": 13,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 13,
+    "value": 0,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 13,
+    "value": 24,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 24
+  },
+  {
+    "time": "2016",
+    "id": 13,
+    "value": 115,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 115
+  },
+  {
+    "time": "2017",
+    "id": 13,
+    "value": 280,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 280
+  },
+  {
+    "time": "2018",
+    "id": 13,
+    "value": 505,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 505
+  },
+  {
+    "time": "2019",
+    "id": 13,
+    "value": 511,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 511
+  },
+  {
+    "time": "2020",
+    "id": 13,
+    "value": 451,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 451
+  },
+  {
+    "time": "2021",
+    "id": 13,
+    "value": 435,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 435
+  },
+  {
+    "time": "2022",
+    "id": 13,
+    "value": 431,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 431
+  },
+  {
+    "time": "2023",
+    "id": 13,
+    "value": 352,
+    "x": "FIXED OBJECT",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 352
+  },
+  {
+    "time": "2013",
+    "id": 14,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 14,
+    "value": 1,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2015",
+    "id": 14,
+    "value": 219,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 219
+  },
+  {
+    "time": "2016",
+    "id": 14,
+    "value": 975,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 975
+  },
+  {
+    "time": "2017",
+    "id": 14,
+    "value": 1787,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1787
+  },
+  {
+    "time": "2018",
+    "id": 14,
+    "value": 2451,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 2451
+  },
+  {
+    "time": "2019",
+    "id": 14,
+    "value": 2221,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 2221
+  },
+  {
+    "time": "2020",
+    "id": 14,
+    "value": 1953,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1953
+  },
+  {
+    "time": "2021",
+    "id": 14,
+    "value": 2261,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 2261
+  },
+  {
+    "time": "2022",
+    "id": 14,
+    "value": 1982,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1982
+  },
+  {
+    "time": "2023",
+    "id": 14,
+    "value": 1397,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1397
+  },
+  {
+    "time": "2013",
+    "id": 15,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 15,
+    "value": 1,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2015",
+    "id": 15,
+    "value": 45,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 45
+  },
+  {
+    "time": "2016",
+    "id": 15,
+    "value": 144,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 144
+  },
+  {
+    "time": "2017",
+    "id": 15,
+    "value": 309,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 309
+  },
+  {
+    "time": "2018",
+    "id": 15,
+    "value": 486,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 486
+  },
+  {
+    "time": "2019",
+    "id": 15,
+    "value": 412,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 412
+  },
+  {
+    "time": "2020",
+    "id": 15,
+    "value": 327,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 327
+  },
+  {
+    "time": "2021",
+    "id": 15,
+    "value": 427,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 427
+  },
+  {
+    "time": "2022",
+    "id": 15,
+    "value": 381,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 381
+  },
+  {
+    "time": "2023",
+    "id": 15,
+    "value": 286,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 286
+  },
+  {
+    "time": "2013",
+    "id": 16,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 16,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 16,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 16,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 16,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 16,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 16,
+    "value": 73,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 73
+  },
+  {
+    "time": "2020",
+    "id": 16,
+    "value": 124,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 124
+  },
+  {
+    "time": "2021",
+    "id": 16,
+    "value": 167,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 167
+  },
+  {
+    "time": "2022",
+    "id": 16,
+    "value": 172,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 172
+  },
+  {
+    "time": "2023",
+    "id": 16,
+    "value": 171,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 171
+  },
+  {
+    "time": "2013",
+    "id": 17,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 17,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 17,
+    "value": 666,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 666
+  },
+  {
+    "time": "2016",
+    "id": 17,
+    "value": 3335,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 3335
+  },
+  {
+    "time": "2017",
+    "id": 17,
+    "value": 6945,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 6945
+  },
+  {
+    "time": "2018",
+    "id": 17,
+    "value": 10110,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 10110
+  },
+  {
+    "time": "2019",
+    "id": 17,
+    "value": 10037,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 10037
+  },
+  {
+    "time": "2020",
+    "id": 17,
+    "value": 8710,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 8710
+  },
+  {
+    "time": "2021",
+    "id": 17,
+    "value": 10497,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 10497
+  },
+  {
+    "time": "2022",
+    "id": 17,
+    "value": 10056,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 10056
+  },
+  {
+    "time": "2023",
+    "id": 17,
+    "value": 7266,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 7266
+  },
+  {
+    "time": "2013",
+    "id": 18,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 18,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 18,
+    "value": 616,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 616
+  },
+  {
+    "time": "2016",
+    "id": 18,
+    "value": 2600,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 2600
+  },
+  {
+    "time": "2017",
+    "id": 18,
+    "value": 4960,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 4960
+  },
+  {
+    "time": "2018",
+    "id": 18,
+    "value": 6888,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 6888
+  },
+  {
+    "time": "2019",
+    "id": 18,
+    "value": 6854,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 6854
+  },
+  {
+    "time": "2020",
+    "id": 18,
+    "value": 6773,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 6773
+  },
+  {
+    "time": "2021",
+    "id": 18,
+    "value": 7891,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 7891
+  },
+  {
+    "time": "2022",
+    "id": 18,
+    "value": 6870,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 6870
+  },
+  {
+    "time": "2023",
+    "id": 18,
+    "value": 4892,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 4892
+  },
+  {
+    "time": "2013",
+    "id": 19,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 19,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 19,
+    "value": 56,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 56
+  },
+  {
+    "time": "2016",
+    "id": 19,
+    "value": 270,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 270
+  },
+  {
+    "time": "2017",
+    "id": 19,
+    "value": 448,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 448
+  },
+  {
+    "time": "2018",
+    "id": 19,
+    "value": 650,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 650
+  },
+  {
+    "time": "2019",
+    "id": 19,
+    "value": 609,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 609
+  },
+  {
+    "time": "2020",
+    "id": 19,
+    "value": 568,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 568
+  },
+  {
+    "time": "2021",
+    "id": 19,
+    "value": 690,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 690
+  },
+  {
+    "time": "2022",
+    "id": 19,
+    "value": 697,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 697
+  },
+  {
+    "time": "2023",
+    "id": 19,
+    "value": 574,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 574
+  },
+  {
+    "time": "2013",
+    "id": 20,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 20,
+    "value": 0,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 20,
+    "value": 491,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 491
+  },
+  {
+    "time": "2016",
+    "id": 20,
+    "value": 1986,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1986
+  },
+  {
+    "time": "2017",
+    "id": 20,
+    "value": 3169,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 3169
+  },
+  {
+    "time": "2018",
+    "id": 20,
+    "value": 4119,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 4119
+  },
+  {
+    "time": "2019",
+    "id": 20,
+    "value": 4229,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 4229
+  },
+  {
+    "time": "2020",
+    "id": 20,
+    "value": 3084,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 3084
+  },
+  {
+    "time": "2021",
+    "id": 20,
+    "value": 3712,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 3712
+  },
+  {
+    "time": "2022",
+    "id": 20,
+    "value": 3501,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 3501
+  },
+  {
+    "time": "2023",
+    "id": 20,
+    "value": 2747,
+    "x": "PARKED MOTOR VEHICLE",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 2747
+  },
+  {
+    "time": "2013",
+    "id": 21,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 21,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 21,
+    "value": 16,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 16
+  },
+  {
+    "time": "2016",
+    "id": 21,
+    "value": 82,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 82
+  },
+  {
+    "time": "2017",
+    "id": 21,
+    "value": 398,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 398
+  },
+  {
+    "time": "2018",
+    "id": 21,
+    "value": 670,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 670
+  },
+  {
+    "time": "2019",
+    "id": 21,
+    "value": 461,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 461
+  },
+  {
+    "time": "2020",
+    "id": 21,
+    "value": 315,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 315
+  },
+  {
+    "time": "2021",
+    "id": 21,
+    "value": 299,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 299
+  },
+  {
+    "time": "2022",
+    "id": 21,
+    "value": 292,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 292
+  },
+  {
+    "time": "2023",
+    "id": 21,
+    "value": 206,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 206
+  },
+  {
+    "time": "2013",
+    "id": 22,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 22,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 22,
+    "value": 4,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 4
+  },
+  {
+    "time": "2016",
+    "id": 22,
+    "value": 23,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 23
+  },
+  {
+    "time": "2017",
+    "id": 22,
+    "value": 113,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 113
+  },
+  {
+    "time": "2018",
+    "id": 22,
+    "value": 133,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 133
+  },
+  {
+    "time": "2019",
+    "id": 22,
+    "value": 143,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 143
+  },
+  {
+    "time": "2020",
+    "id": 22,
+    "value": 87,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 87
+  },
+  {
+    "time": "2021",
+    "id": 22,
+    "value": 90,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 90
+  },
+  {
+    "time": "2022",
+    "id": 22,
+    "value": 80,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 80
+  },
+  {
+    "time": "2023",
+    "id": 22,
+    "value": 58,
+    "x": "PEDESTRIAN",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 58
+  },
+  {
+    "time": "2013",
+    "id": 23,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 23,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 23,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 23,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 23,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 23,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 23,
+    "value": 313,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 313
+  },
+  {
+    "time": "2020",
+    "id": 23,
+    "value": 289,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 289
+  },
+  {
+    "time": "2021",
+    "id": 23,
+    "value": 365,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 365
+  },
+  {
+    "time": "2022",
+    "id": 23,
+    "value": 457,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 457
+  },
+  {
+    "time": "2023",
+    "id": 23,
+    "value": 400,
+    "x": "PEDESTRIAN",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 400
+  },
+  {
+    "time": "2013",
+    "id": 24,
+    "value": 1,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2014",
+    "id": 24,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 24,
+    "value": 38,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 38
+  },
+  {
+    "time": "2016",
+    "id": 24,
+    "value": 196,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 196
+  },
+  {
+    "time": "2017",
+    "id": 24,
+    "value": 806,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 806
+  },
+  {
+    "time": "2018",
+    "id": 24,
+    "value": 1473,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1473
+  },
+  {
+    "time": "2019",
+    "id": 24,
+    "value": 1228,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1228
+  },
+  {
+    "time": "2020",
+    "id": 24,
+    "value": 752,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 752
+  },
+  {
+    "time": "2021",
+    "id": 24,
+    "value": 789,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 789
+  },
+  {
+    "time": "2022",
+    "id": 24,
+    "value": 885,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 885
+  },
+  {
+    "time": "2023",
+    "id": 24,
+    "value": 637,
+    "x": "PEDESTRIAN",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 637
+  },
+  {
+    "time": "2013",
+    "id": 25,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 25,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 25,
+    "value": 12,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 12
+  },
+  {
+    "time": "2016",
+    "id": 25,
+    "value": 57,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 57
+  },
+  {
+    "time": "2017",
+    "id": 25,
+    "value": 199,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 199
+  },
+  {
+    "time": "2018",
+    "id": 25,
+    "value": 390,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 390
+  },
+  {
+    "time": "2019",
+    "id": 25,
+    "value": 386,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 386
+  },
+  {
+    "time": "2020",
+    "id": 25,
+    "value": 218,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 218
+  },
+  {
+    "time": "2021",
+    "id": 25,
+    "value": 212,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 212
+  },
+  {
+    "time": "2022",
+    "id": 25,
+    "value": 166,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 166
+  },
+  {
+    "time": "2023",
+    "id": 25,
+    "value": 165,
+    "x": "PEDESTRIAN",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 165
+  },
+  {
+    "time": "2013",
+    "id": 26,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 26,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 26,
+    "value": 9,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 9
+  },
+  {
+    "time": "2016",
+    "id": 26,
+    "value": 17,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 17
+  },
+  {
+    "time": "2017",
+    "id": 26,
+    "value": 69,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 69
+  },
+  {
+    "time": "2018",
+    "id": 26,
+    "value": 106,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 106
+  },
+  {
+    "time": "2019",
+    "id": 26,
+    "value": 93,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 93
+  },
+  {
+    "time": "2020",
+    "id": 26,
+    "value": 41,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 41
+  },
+  {
+    "time": "2021",
+    "id": 26,
+    "value": 53,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 53
+  },
+  {
+    "time": "2022",
+    "id": 26,
+    "value": 64,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 64
+  },
+  {
+    "time": "2023",
+    "id": 26,
+    "value": 37,
+    "x": "PEDESTRIAN",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 37
+  },
+  {
+    "time": "2013",
+    "id": 27,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 27,
+    "value": 0,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 27,
+    "value": 4,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 4
+  },
+  {
+    "time": "2016",
+    "id": 27,
+    "value": 30,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 30
+  },
+  {
+    "time": "2017",
+    "id": 27,
+    "value": 91,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 91
+  },
+  {
+    "time": "2018",
+    "id": 27,
+    "value": 159,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 159
+  },
+  {
+    "time": "2019",
+    "id": 27,
+    "value": 159,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 159
+  },
+  {
+    "time": "2020",
+    "id": 27,
+    "value": 106,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 106
+  },
+  {
+    "time": "2021",
+    "id": 27,
+    "value": 118,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 118
+  },
+  {
+    "time": "2022",
+    "id": 27,
+    "value": 115,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 115
+  },
+  {
+    "time": "2023",
+    "id": 27,
+    "value": 91,
+    "x": "PEDESTRIAN",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 91
+  },
+  {
+    "time": "2013",
+    "id": 28,
+    "value": 0,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 28,
+    "value": 0,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 28,
+    "value": 830,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 830
+  },
+  {
+    "time": "2016",
+    "id": 28,
+    "value": 3219,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 3219
+  },
+  {
+    "time": "2017",
+    "id": 28,
+    "value": 5368,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 5368
+  },
+  {
+    "time": "2018",
+    "id": 28,
+    "value": 6658,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 6658
+  },
+  {
+    "time": "2019",
+    "id": 28,
+    "value": 5950,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 5950
+  },
+  {
+    "time": "2020",
+    "id": 28,
+    "value": 4108,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 4108
+  },
+  {
+    "time": "2021",
+    "id": 28,
+    "value": 4320,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 4320
+  },
+  {
+    "time": "2022",
+    "id": 28,
+    "value": 4124,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 4124
+  },
+  {
+    "time": "2023",
+    "id": 28,
+    "value": 3038,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 3038
+  },
+  {
+    "time": "2013",
+    "id": 29,
+    "value": 0,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 29,
+    "value": 0,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 29,
+    "value": 274,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 274
+  },
+  {
+    "time": "2016",
+    "id": 29,
+    "value": 1073,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1073
+  },
+  {
+    "time": "2017",
+    "id": 29,
+    "value": 1791,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1791
+  },
+  {
+    "time": "2018",
+    "id": 29,
+    "value": 2380,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 2380
+  },
+  {
+    "time": "2019",
+    "id": 29,
+    "value": 2168,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 2168
+  },
+  {
+    "time": "2020",
+    "id": 29,
+    "value": 1474,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1474
+  },
+  {
+    "time": "2021",
+    "id": 29,
+    "value": 1707,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1707
+  },
+  {
+    "time": "2022",
+    "id": 29,
+    "value": 1682,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1682
+  },
+  {
+    "time": "2023",
+    "id": 29,
+    "value": 1182,
+    "x": "REAR END",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1182
+  },
+  {
+    "time": "2013",
+    "id": 30,
+    "value": 0,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 30,
+    "value": 0,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 30,
+    "value": 0,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 30,
+    "value": 0,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 30,
+    "value": 0,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 30,
+    "value": 0,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 30,
+    "value": 898,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 898
+  },
+  {
+    "time": "2020",
+    "id": 30,
+    "value": 1147,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1147
+  },
+  {
+    "time": "2021",
+    "id": 30,
+    "value": 1332,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1332
+  },
+  {
+    "time": "2022",
+    "id": 30,
+    "value": 1596,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1596
+  },
+  {
+    "time": "2023",
+    "id": 30,
+    "value": 1611,
+    "x": "REAR END",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1611
+  },
+  {
+    "time": "2013",
+    "id": 31,
+    "value": 0,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 31,
+    "value": 1,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2015",
+    "id": 31,
+    "value": 1209,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 1209
+  },
+  {
+    "time": "2016",
+    "id": 31,
+    "value": 6431,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 6431
+  },
+  {
+    "time": "2017",
+    "id": 31,
+    "value": 10939,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 10939
+  },
+  {
+    "time": "2018",
+    "id": 31,
+    "value": 14601,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 14601
+  },
+  {
+    "time": "2019",
+    "id": 31,
+    "value": 13629,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 13629
+  },
+  {
+    "time": "2020",
+    "id": 31,
+    "value": 9610,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 9610
+  },
+  {
+    "time": "2021",
+    "id": 31,
+    "value": 10888,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 10888
+  },
+  {
+    "time": "2022",
+    "id": 31,
+    "value": 11062,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 11062
+  },
+  {
+    "time": "2023",
+    "id": 31,
+    "value": 7768,
+    "x": "REAR END",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 7768
+  },
+  {
+    "time": "2013",
+    "id": 32,
+    "value": 0,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 32,
+    "value": 0,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 32,
+    "value": 215,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 215
+  },
+  {
+    "time": "2016",
+    "id": 32,
+    "value": 1008,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1008
+  },
+  {
+    "time": "2017",
+    "id": 32,
+    "value": 1349,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1349
+  },
+  {
+    "time": "2018",
+    "id": 32,
+    "value": 1766,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1766
+  },
+  {
+    "time": "2019",
+    "id": 32,
+    "value": 1672,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1672
+  },
+  {
+    "time": "2020",
+    "id": 32,
+    "value": 1050,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1050
+  },
+  {
+    "time": "2021",
+    "id": 32,
+    "value": 1193,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1193
+  },
+  {
+    "time": "2022",
+    "id": 32,
+    "value": 1085,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1085
+  },
+  {
+    "time": "2023",
+    "id": 32,
+    "value": 831,
+    "x": "REAR END",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 831
+  },
+  {
+    "time": "2013",
+    "id": 33,
+    "value": 0,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 33,
+    "value": 0,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 33,
+    "value": 77,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 77
+  },
+  {
+    "time": "2016",
+    "id": 33,
+    "value": 242,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 242
+  },
+  {
+    "time": "2017",
+    "id": 33,
+    "value": 372,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 372
+  },
+  {
+    "time": "2018",
+    "id": 33,
+    "value": 497,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 497
+  },
+  {
+    "time": "2019",
+    "id": 33,
+    "value": 484,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 484
+  },
+  {
+    "time": "2020",
+    "id": 33,
+    "value": 307,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 307
+  },
+  {
+    "time": "2021",
+    "id": 33,
+    "value": 395,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 395
+  },
+  {
+    "time": "2022",
+    "id": 33,
+    "value": 368,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 368
+  },
+  {
+    "time": "2023",
+    "id": 33,
+    "value": 291,
+    "x": "REAR END",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 291
+  },
+  {
+    "time": "2013",
+    "id": 34,
+    "value": 0,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 34,
+    "value": 0,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 34,
+    "value": 71,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 71
+  },
+  {
+    "time": "2016",
+    "id": 34,
+    "value": 420,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 420
+  },
+  {
+    "time": "2017",
+    "id": 34,
+    "value": 588,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 588
+  },
+  {
+    "time": "2018",
+    "id": 34,
+    "value": 753,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 753
+  },
+  {
+    "time": "2019",
+    "id": 34,
+    "value": 482,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 482
+  },
+  {
+    "time": "2020",
+    "id": 34,
+    "value": 297,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 297
+  },
+  {
+    "time": "2021",
+    "id": 34,
+    "value": 317,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 317
+  },
+  {
+    "time": "2022",
+    "id": 34,
+    "value": 352,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 352
+  },
+  {
+    "time": "2023",
+    "id": 34,
+    "value": 250,
+    "x": "REAR END",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 250
+  },
+  {
+    "time": "2013",
+    "id": 35,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 35,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 35,
+    "value": 426,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 426
+  },
+  {
+    "time": "2016",
+    "id": 35,
+    "value": 1904,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1904
+  },
+  {
+    "time": "2017",
+    "id": 35,
+    "value": 2993,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 2993
+  },
+  {
+    "time": "2018",
+    "id": 35,
+    "value": 3861,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 3861
+  },
+  {
+    "time": "2019",
+    "id": 35,
+    "value": 3386,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 3386
+  },
+  {
+    "time": "2020",
+    "id": 35,
+    "value": 2162,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 2162
+  },
+  {
+    "time": "2021",
+    "id": 35,
+    "value": 2784,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 2784
+  },
+  {
+    "time": "2022",
+    "id": 35,
+    "value": 2688,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 2688
+  },
+  {
+    "time": "2023",
+    "id": 35,
+    "value": 1987,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1987
+  },
+  {
+    "time": "2013",
+    "id": 36,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 36,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 36,
+    "value": 199,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 199
+  },
+  {
+    "time": "2016",
+    "id": 36,
+    "value": 779,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 779
+  },
+  {
+    "time": "2017",
+    "id": 36,
+    "value": 1233,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 1233
+  },
+  {
+    "time": "2018",
+    "id": 36,
+    "value": 1724,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1724
+  },
+  {
+    "time": "2019",
+    "id": 36,
+    "value": 1696,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1696
+  },
+  {
+    "time": "2020",
+    "id": 36,
+    "value": 1063,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1063
+  },
+  {
+    "time": "2021",
+    "id": 36,
+    "value": 1425,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1425
+  },
+  {
+    "time": "2022",
+    "id": 36,
+    "value": 1462,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1462
+  },
+  {
+    "time": "2023",
+    "id": 36,
+    "value": 1040,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1040
+  },
+  {
+    "time": "2013",
+    "id": 37,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 37,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 37,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 37,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 37,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 37,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 37,
+    "value": 378,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 378
+  },
+  {
+    "time": "2020",
+    "id": 37,
+    "value": 422,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 422
+  },
+  {
+    "time": "2021",
+    "id": 37,
+    "value": 553,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 553
+  },
+  {
+    "time": "2022",
+    "id": 37,
+    "value": 677,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 677
+  },
+  {
+    "time": "2023",
+    "id": 37,
+    "value": 760,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 760
+  },
+  {
+    "time": "2013",
+    "id": 38,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 38,
+    "value": 1,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2015",
+    "id": 38,
+    "value": 653,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 653
+  },
+  {
+    "time": "2016",
+    "id": 38,
+    "value": 3660,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 3660
+  },
+  {
+    "time": "2017",
+    "id": 38,
+    "value": 6244,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 6244
+  },
+  {
+    "time": "2018",
+    "id": 38,
+    "value": 8805,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 8805
+  },
+  {
+    "time": "2019",
+    "id": 38,
+    "value": 8392,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 8392
+  },
+  {
+    "time": "2020",
+    "id": 38,
+    "value": 5356,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 5356
+  },
+  {
+    "time": "2021",
+    "id": 38,
+    "value": 7068,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 7068
+  },
+  {
+    "time": "2022",
+    "id": 38,
+    "value": 7431,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 7431
+  },
+  {
+    "time": "2023",
+    "id": 38,
+    "value": 5537,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 5537
+  },
+  {
+    "time": "2013",
+    "id": 39,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 39,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 39,
+    "value": 338,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 338
+  },
+  {
+    "time": "2016",
+    "id": 39,
+    "value": 1385,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1385
+  },
+  {
+    "time": "2017",
+    "id": 39,
+    "value": 2008,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 2008
+  },
+  {
+    "time": "2018",
+    "id": 39,
+    "value": 2506,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 2506
+  },
+  {
+    "time": "2019",
+    "id": 39,
+    "value": 2507,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 2507
+  },
+  {
+    "time": "2020",
+    "id": 39,
+    "value": 1458,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 1458
+  },
+  {
+    "time": "2021",
+    "id": 39,
+    "value": 1631,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 1631
+  },
+  {
+    "time": "2022",
+    "id": 39,
+    "value": 1699,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 1699
+  },
+  {
+    "time": "2023",
+    "id": 39,
+    "value": 1362,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1362
+  },
+  {
+    "time": "2013",
+    "id": 40,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 40,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 40,
+    "value": 51,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 51
+  },
+  {
+    "time": "2016",
+    "id": 40,
+    "value": 179,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 179
+  },
+  {
+    "time": "2017",
+    "id": 40,
+    "value": 280,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 280
+  },
+  {
+    "time": "2018",
+    "id": 40,
+    "value": 373,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 373
+  },
+  {
+    "time": "2019",
+    "id": 40,
+    "value": 329,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 329
+  },
+  {
+    "time": "2020",
+    "id": 40,
+    "value": 213,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 213
+  },
+  {
+    "time": "2021",
+    "id": 40,
+    "value": 319,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 319
+  },
+  {
+    "time": "2022",
+    "id": 40,
+    "value": 280,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 280
+  },
+  {
+    "time": "2023",
+    "id": 40,
+    "value": 274,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 274
+  },
+  {
+    "time": "2013",
+    "id": 41,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 41,
+    "value": 0,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 41,
+    "value": 41,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 41
+  },
+  {
+    "time": "2016",
+    "id": 41,
+    "value": 130,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 130
+  },
+  {
+    "time": "2017",
+    "id": 41,
+    "value": 195,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 195
+  },
+  {
+    "time": "2018",
+    "id": 41,
+    "value": 229,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 229
+  },
+  {
+    "time": "2019",
+    "id": 41,
+    "value": 205,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 205
+  },
+  {
+    "time": "2020",
+    "id": 41,
+    "value": 135,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 135
+  },
+  {
+    "time": "2021",
+    "id": 41,
+    "value": 197,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 197
+  },
+  {
+    "time": "2022",
+    "id": 41,
+    "value": 205,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 205
+  },
+  {
+    "time": "2023",
+    "id": 41,
+    "value": 138,
+    "x": "SIDESWIPE SAME DIRECTION",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 138
+  },
+  {
+    "time": "2013",
+    "id": 42,
+    "value": 0,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 42,
+    "value": 0,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 42,
+    "value": 326,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 326
+  },
+  {
+    "time": "2016",
+    "id": 42,
+    "value": 1350,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 1350
+  },
+  {
+    "time": "2017",
+    "id": 42,
+    "value": 2813,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 2813
+  },
+  {
+    "time": "2018",
+    "id": 42,
+    "value": 4054,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 4054
+  },
+  {
+    "time": "2019",
+    "id": 42,
+    "value": 3229,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 3229
+  },
+  {
+    "time": "2020",
+    "id": 42,
+    "value": 2169,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 2169
+  },
+  {
+    "time": "2021",
+    "id": 42,
+    "value": 2498,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 2498
+  },
+  {
+    "time": "2022",
+    "id": 42,
+    "value": 2362,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 2362
+  },
+  {
+    "time": "2023",
+    "id": 42,
+    "value": 1558,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 1558
+  },
+  {
+    "time": "2013",
+    "id": 43,
+    "value": 0,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 43,
+    "value": 0,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 43,
+    "value": 99,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 99
+  },
+  {
+    "time": "2016",
+    "id": 43,
+    "value": 314,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 314
+  },
+  {
+    "time": "2017",
+    "id": 43,
+    "value": 615,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 615
+  },
+  {
+    "time": "2018",
+    "id": 43,
+    "value": 1080,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1080
+  },
+  {
+    "time": "2019",
+    "id": 43,
+    "value": 779,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 779
+  },
+  {
+    "time": "2020",
+    "id": 43,
+    "value": 487,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 487
+  },
+  {
+    "time": "2021",
+    "id": 43,
+    "value": 580,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 580
+  },
+  {
+    "time": "2022",
+    "id": 43,
+    "value": 550,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 550
+  },
+  {
+    "time": "2023",
+    "id": 43,
+    "value": 369,
+    "x": "TURNING",
+    "y": "DIVIDED - W/MEDIAN BARRIER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 369
+  },
+  {
+    "time": "2013",
+    "id": 44,
+    "value": 0,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 44,
+    "value": 0,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 44,
+    "value": 0,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2016",
+    "id": 44,
+    "value": 0,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2017",
+    "id": 44,
+    "value": 0,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2018",
+    "id": 44,
+    "value": 0,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2019",
+    "id": 44,
+    "value": 1696,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 1696
+  },
+  {
+    "time": "2020",
+    "id": 44,
+    "value": 2192,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 2192
+  },
+  {
+    "time": "2021",
+    "id": 44,
+    "value": 2852,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 2852
+  },
+  {
+    "time": "2022",
+    "id": 44,
+    "value": 3159,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 3159
+  },
+  {
+    "time": "2023",
+    "id": 44,
+    "value": 2877,
+    "x": "TURNING",
+    "y": "FOUR WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 2877
+  },
+  {
+    "time": "2013",
+    "id": 45,
+    "value": 0,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 45,
+    "value": 1,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 1
+  },
+  {
+    "time": "2015",
+    "id": 45,
+    "value": 546,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 546
+  },
+  {
+    "time": "2016",
+    "id": 45,
+    "value": 2693,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 2693
+  },
+  {
+    "time": "2017",
+    "id": 45,
+    "value": 5778,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 5778
+  },
+  {
+    "time": "2018",
+    "id": 45,
+    "value": 8677,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 8677
+  },
+  {
+    "time": "2019",
+    "id": 45,
+    "value": 7424,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 7424
+  },
+  {
+    "time": "2020",
+    "id": 45,
+    "value": 5373,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 5373
+  },
+  {
+    "time": "2021",
+    "id": 45,
+    "value": 6152,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 6152
+  },
+  {
+    "time": "2022",
+    "id": 45,
+    "value": 6458,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 6458
+  },
+  {
+    "time": "2023",
+    "id": 45,
+    "value": 4437,
+    "x": "TURNING",
+    "y": "NOT DIVIDED",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 4437
+  },
+  {
+    "time": "2013",
+    "id": 46,
+    "value": 0,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 46,
+    "value": 0,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 46,
+    "value": 135,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 135
+  },
+  {
+    "time": "2016",
+    "id": 46,
+    "value": 460,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 460
+  },
+  {
+    "time": "2017",
+    "id": 46,
+    "value": 854,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 854
+  },
+  {
+    "time": "2018",
+    "id": 46,
+    "value": 1158,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 1158
+  },
+  {
+    "time": "2019",
+    "id": 46,
+    "value": 984,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 984
+  },
+  {
+    "time": "2020",
+    "id": 46,
+    "value": 561,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 561
+  },
+  {
+    "time": "2021",
+    "id": 46,
+    "value": 590,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 590
+  },
+  {
+    "time": "2022",
+    "id": 46,
+    "value": 610,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 610
+  },
+  {
+    "time": "2023",
+    "id": 46,
+    "value": 446,
+    "x": "TURNING",
+    "y": "ONE-WAY",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 446
+  },
+  {
+    "time": "2013",
+    "id": 47,
+    "value": 0,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 47,
+    "value": 0,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 47,
+    "value": 72,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 72
+  },
+  {
+    "time": "2016",
+    "id": 47,
+    "value": 277,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 277
+  },
+  {
+    "time": "2017",
+    "id": 47,
+    "value": 408,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 408
+  },
+  {
+    "time": "2018",
+    "id": 47,
+    "value": 622,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 622
+  },
+  {
+    "time": "2019",
+    "id": 47,
+    "value": 407,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 407
+  },
+  {
+    "time": "2020",
+    "id": 47,
+    "value": 187,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 187
+  },
+  {
+    "time": "2021",
+    "id": 47,
+    "value": 252,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 252
+  },
+  {
+    "time": "2022",
+    "id": 47,
+    "value": 248,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 248
+  },
+  {
+    "time": "2023",
+    "id": 47,
+    "value": 187,
+    "x": "TURNING",
+    "y": "OTHER",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 187
+  },
+  {
+    "time": "2013",
+    "id": 48,
+    "value": 0,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2013",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2014",
+    "id": 48,
+    "value": 0,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2014",
+    "NUMBER OF ACCIDENTS": 0
+  },
+  {
+    "time": "2015",
+    "id": 48,
+    "value": 25,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2015",
+    "NUMBER OF ACCIDENTS": 25
+  },
+  {
+    "time": "2016",
+    "id": 48,
+    "value": 107,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2016",
+    "NUMBER OF ACCIDENTS": 107
+  },
+  {
+    "time": "2017",
+    "id": 48,
+    "value": 174,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2017",
+    "NUMBER OF ACCIDENTS": 174
+  },
+  {
+    "time": "2018",
+    "id": 48,
+    "value": 237,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2018",
+    "NUMBER OF ACCIDENTS": 237
+  },
+  {
+    "time": "2019",
+    "id": 48,
+    "value": 234,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2019",
+    "NUMBER OF ACCIDENTS": 234
+  },
+  {
+    "time": "2020",
+    "id": 48,
+    "value": 185,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2020",
+    "NUMBER OF ACCIDENTS": 185
+  },
+  {
+    "time": "2021",
+    "id": 48,
+    "value": 213,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2021",
+    "NUMBER OF ACCIDENTS": 213
+  },
+  {
+    "time": "2022",
+    "id": 48,
+    "value": 205,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2022",
+    "NUMBER OF ACCIDENTS": 205
+  },
+  {
+    "time": "2023",
+    "id": 48,
+    "value": 161,
+    "x": "TURNING",
+    "y": "PARKING LOT",
+    "TIME": "2023",
+    "NUMBER OF ACCIDENTS": 161
+  }
+]

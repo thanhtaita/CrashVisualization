@@ -1,3 +1,7238 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc0c4af6a2c7cc462701e4dc2868e7a2a8210b055eba45e74c18acec18a26df5
-size 170213
+[
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 119
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 104
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 746
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 27
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 37
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 243
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 14
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 76
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 54
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 177
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1020
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 143
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 530
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 50
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 51
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 82
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 471
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 47
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 184
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 295
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1728
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 166
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 129
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 159
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 0,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 1,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 2,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 14
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 51
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 3,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 4,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 4,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 29
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 148
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 85
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 75
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 70
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 36
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 76
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 375
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 32
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 194
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 480
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 38
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2110
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 93
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 189
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 14
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 5,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 6,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 6,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 6,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 6,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 6,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 7,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 7,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 7,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 8,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 8,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 9,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 75
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 199
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1018
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 37
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 75
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 14
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 109
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 47
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 225
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 25
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 66
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 117
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 484
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 35
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 41
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 80
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 391
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 81
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 194
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 954
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 39
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 91
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 547
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1478
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 127
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 8898
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 273
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 827
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 89
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 10,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 11,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 11,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 11,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 11,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 11,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 11,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 12,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 12,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 14,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 14,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 14,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 287
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 849
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 71
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3061
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 119
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 219
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 94
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 328
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 36
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 23
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 68
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 54
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 200
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 51
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 122
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 180
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 589
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 43
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2065
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 68
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 185
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 202
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 789
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 70
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1971
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 92
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 283
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 88
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 223
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 852
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 34
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 78
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 526
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1650
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 129
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 8735
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 315
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 638
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 27
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 100
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 50
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 28
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 86
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 33
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 15,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 18,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 18,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 70
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 180
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 14
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 758
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 59
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 36
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 77
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 450
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 53
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1910
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 42
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 87
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 76
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 221
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 89
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 33
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 163
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 642
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 515
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2002
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 176
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6773
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 239
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 622
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 513
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2339
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 187
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5742
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 232
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 946
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 52
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 154
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 638
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 28
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 64
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 145
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 352
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 40
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2275
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 96
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 147
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 51
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 202
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 25
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 48
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 119
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 97
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 40
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 20,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 22,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 22,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 23,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 23,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 24,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 56
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 126
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 452
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 24
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 35
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 112
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 190
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 923
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 79
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3688
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 100
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 110
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 47
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 465
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 749
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 29
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 103
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 107
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 492
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 34
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1416
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 73
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 45
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1070
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4149
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 373
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 12993
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 584
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1255
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 714
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3102
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 238
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6666
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 293
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1103
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 57
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 230
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 643
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 25
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 73
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 75
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 183
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 953
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 46
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 110
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 40
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 99
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 23
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 127
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 488
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 48
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 28
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 33
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 58
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 196
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 112
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 60
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 25,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 26,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 29,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 29,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 29,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 244
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 646
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 59
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2659
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 120
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 191
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 189
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1286
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 78
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2549
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 175
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 93
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 3513
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 22119
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1540
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 66810
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2693
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2095
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 966
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7040
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 456
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 17354
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 786
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 496
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 73
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 227
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 790
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 38
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 55
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 246
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 472
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1163
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 9751
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 718
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 21837
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1138
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 727
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 76
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 12740
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 54790
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4226
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 174755
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 8200
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 9152
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 103
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 253
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 3393
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 14702
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 989
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 37304
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1667
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4867
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 626
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2470
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 204
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7902
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 341
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 578
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 906
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2146
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 220
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 10618
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 435
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 998
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 68
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 320
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 725
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 46
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 45
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 43
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 72
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 248
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1722
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 119
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4243
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 183
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 161
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 24
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 144
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 14
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 420
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 268
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 591
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 74
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2496
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 91
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2726
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 54
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 445
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 29
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 883
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 49
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 166
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 28
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 201
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 447
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 30,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 31,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 31,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 32,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 33,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 34,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 28
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 156
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 242
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 388
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 32
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 428
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2666
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 162
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6551
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 277
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 130
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 185
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1487
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 94
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2833
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 130
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 54
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 58
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 44
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 51
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 132
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1144
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 83
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2154
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 109
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 43
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1337
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4971
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 435
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 13688
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 714
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 779
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 210
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 960
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1932
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 98
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 228
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 78
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 229
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 677
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 33
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 61
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 157
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 611
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 27
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 65
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 46
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 67
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 183
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 414
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 19
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 28
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 42
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 35
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 54
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 303
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 332
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 43
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 93
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 30
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 66
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 35,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 36,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 36,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 36,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 36,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 38,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 38,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 24
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 39,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 16
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 25
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 223
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 423
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 159
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1478
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 101
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2663
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 118
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 79
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 55
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 89
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "L-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 48
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 141
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 381
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "NOT REPORTED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 15
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 49
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 142
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 21
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 110
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 194
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 45
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 101
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 38
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 48
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 35
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 40,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 44,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ALLEY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 29
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 114
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 279
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 117
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1004
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 74
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1738
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 80
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 41
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FIVE POINT, OR MORE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 34
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 56
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 33
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 62
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 246
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 31
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 73
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 134
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 22
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 77
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 129
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 29
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 56
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "ROUNDABOUT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 24
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 26
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "TRAFFIC ROUTE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 45,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 49,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 11
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 25
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 47
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 13
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 12
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 50,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "CENTER TURN LANE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 35
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 18
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 90
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 186
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "DRIVEWAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "FOUR WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 10
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 25
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 7
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 17
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 27
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 24
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 41
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 9
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "RAMP",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "UNKNOWN INTERSECTION TYPE",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 55,
+    "TRAFFICWAY_TYPE": "Y-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 8
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "T-INTERSECTION",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 60,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 62,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 63,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 4
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 65,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 70,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN BARRIER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 70,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 70,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 2
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "DIVIDED - W/MEDIAN (NOT RAISED)",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "NOT DIVIDED",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 3
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "ONE-WAY",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "DUSK",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "OTHER",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 5
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "PARKING LOT",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 6
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DARKNESS, LIGHTED ROAD",
+    "counts": 1
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "DAYLIGHT",
+    "counts": 20
+  },
+  {
+    "POSTED_SPEED_LIMIT": 99,
+    "TRAFFICWAY_TYPE": "UNKNOWN",
+    "LIGHTING_CONDITION": "UNKNOWN",
+    "counts": 21
+  }
+]
